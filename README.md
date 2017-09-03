@@ -1,2 +1,4 @@
-# Lora
-ultrasonic and temperature sensor readings to LORAWAN 
+# LORA
+
+ultrasonic and temperature sensor
+ 
